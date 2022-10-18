@@ -1,5 +1,6 @@
 # EDA-Diagnosing-Diabetes
 
+**Scenario:**
 In this project, as a data scientist, I am interested in exploring data that look at how certain diagnostic factors affect the diabetes outcome of women patients.
 
 Through this project, I will use my EDA skills to help inspect, clean, and validate the data.
@@ -15,3 +16,6 @@ This [dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-datab
 - DiabetesPedigreeFunction: Diabetes pedigree function
 - Age: Age (years)
 - Outcome: Class variable (0 or 1)
+
+**Solution:** 
+[See details](https://github.com/eunikehp/EDA-Diagnosing-Diabetes/blob/main/EDA%20Diagnosing%20Diabetes.ipynb)
