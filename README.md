@@ -1,5 +1,7 @@
 # EDA-Diagnosing-Diabetes
 
+A Pandas & SQL Analysis of Diagnosing Diabetes
+
 **Scenario:**
 In this project, as a data scientist, I am interested in exploring data that look at how certain diagnostic factors affect the diabetes outcome of women patients.
 
